@@ -1,40 +1,40 @@
-No solution found for target: 506
-No solution found for target: 712
-No solution found for target: 169
-No solution found for target: 579
-No solution found for target: 828
-No solution found for target: 510
-No solution found for target: 556
-No solution found for target: 801
-No solution found for target: 110
-No solution found for target: 564
-No solution found for target: 725
-No solution found for target: 996
-No solution found for target: 233
-No solution found for target: 172
-No solution found for target: 210
-No solution found for target: 628
-No solution found for target: 287
-No solution found for target: 143
+No solution found for target: 582
+No solution found for target: 886
+No solution found for target: 816
+No solution found for target: 735
+No solution found for target: 764
+No solution found for target: 642
+No solution found for target: 154
+No solution found for target: 502
+No solution found for target: 258
 No solution found for target: 183
-No solution found for target: 423
-No solution found for target: 469
-No solution found for target: 439
-No solution found for target: 893
-No solution found for target: 298
-No solution found for target: 456
-No solution found for target: 697
-No solution found for target: 809
-No solution found for target: 872
-Solution found: 42 80 / 44 + 91 + evaluates to 135
+No solution found for target: 845
+No solution found for target: 655
+No solution found for target: 963
+No solution found for target: 400
+No solution found for target: 565
+No solution found for target: 438
+No solution found for target: 260
+No solution found for target: 198
+No solution found for target: 795
 No solution found for target: 178
-Solution found: 96 30 - 66 * 18 / 92 + evaluates to 334
-Solution found: 33 37 - 21 + 22 * 52 - evaluates to 322
-No solution found for target: 891
-No solution found for target: 649
-Solution found: 92 33 + 100 * 19 + 20 / evaluates to 625
-Solution found: 98 16 / 86 + 9 * 81 + evaluates to 909
-No solution found for target: 367
-No solution found for target: 558
-No solution found for target: 725
-Solution found: 73 77 * 54 + 18 / 66 + evaluates to 381
+No solution found for target: 334
+No solution found for target: 674
+No solution found for target: 590
+No solution found for target: 155
+No solution found for target: 896
+No solution found for target: 878
+No solution found for target: 453
+No solution found for target: 634
+No solution found for target: 391
+No solution found for target: 955
+No solution found for target: 663
+Solution found: 96 91 - 70 * 64 / 67 * evaluates to 335
+Solution found: 20 96 / 11 + 56 * 59 - evaluates to 557
+Solution found: 97 8 * 88 - 34 + 89 + evaluates to 811
+No solution found for target: 812
+Solution found: 46 92 + 2 * 84 / 53 * evaluates to 159
+No solution found for target: 659
+Solution found: 9 79 * 34 - 50 * 97 / evaluates to 348
+No solution found for target: 493
+Solution found: 98 30 * 99 + 84 / 92 + evaluates to 128
